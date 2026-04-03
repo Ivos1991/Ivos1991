@@ -30,7 +30,7 @@ I’m passionate about bridging the gap between development and quality, ensurin
 | **🧪 Web, Mobile & E2E Testing** <br> Building robust, high-performance E2E suites with **Playwright**, **Selenium**, and **Appium**. | **⚡ API & Performance Engineering** <br> Designing integration and contract tests using **Pytest** and **Postman**, with load testing via **JMeter** and **k6**. |
 | **🤖 AI-Assisted Engineering** <br> Optimizing the development lifecycle with **Cursor**, **GitHub Copilot**, and **Claude** for faster framework migrations and refactoring. | **📊 Observability & Reporting** <br> Centralizing quality metrics and logs using **Elasticsearch**, **Kibana**, and **Sumo Logic** for real-time system visibility. |
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
 
 <img width="1490" height="175" alt="logos2" src="https://github.com/user-attachments/assets/d84ecd89-0712-4690-9be1-2179eae5db76" />
 
