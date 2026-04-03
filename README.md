@@ -11,7 +11,6 @@ I specialize in the **Architectural Design** of scalable automation frameworks. 
 
 <img width="1772" height="409" alt="image" src="https://github.com/user-attachments/assets/b6652bbb-43ac-417f-860c-b263045efa36" />
 
-**What I bring to the table:**
 - 🏗️ **Framework Architecture:** Expert in building custom, high-performance E2E and API frameworks from scratch (Python, TS, C#).
 - 🔐 **Industry Expertise:** Navigating the strict reliability and security requirements of Fintech and Cybersecurity environments.
 - ⚙️ **CI/CD Integration:** Seamlessly embedding quality gates into Azure DevOps and GitHub Actions to ensure "Green Builds" only.
