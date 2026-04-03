@@ -39,7 +39,7 @@ I specialize in the **Architectural Design** of scalable automation frameworks. 
 | **[Network Security](https://github.com/Ivos1991/network-security-automation-framework)** | Automates vulnerability scanning and network-level security compliance checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
 | **[API & Microservices](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and integration between services. | Pytest, Requests, Docker | ✅ Stable |
 | **[Data Validation Engine](https://github.com/Ivos1991/data-validation-automation-framework)** | Automates verification of large datasets between sources to ensure integrity. | Python, Pandas, SQL, PostgreSQL | ✅ Stable |
-| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers in one suite. | Playwright, Python, Pytest | 🚀 Featured |
+| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers in one suite. | Playwright, Python, Pytest | ⭐ Featured |
 
 ---
 
