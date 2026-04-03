@@ -21,8 +21,6 @@ I’m passionate about bridging the gap between development and quality, ensurin
 <img width="1491" height="158" alt="logos1" src="https://github.com/user-attachments/assets/b206eb66-21ae-4140-8fab-61e714589557" />
 <img width="1490" height="175" alt="logos2" src="https://github.com/user-attachments/assets/814f4e5a-dde3-4ad7-acbc-a77d3c4224e6" />
 
-## 🛠️ Core Skills
-
 <table width="100%">
   <tr>
     <!-- Column 1 -->
@@ -36,37 +34,42 @@ I’m passionate about bridging the gap between development and quality, ensurin
       <b>🧪 Testing Frameworks</b>
       <ul>
         <li><b>Web & E2E:</b> Playwright, Selenium, Cypress</li>
-        <li><b>Unit & API:</b> Pytest, Jest, NUnit, Postman, Rest, Swagger</li>
+        <li><b>Unit & API:</b> Pytest, Jest, NUnit, Postman, Swagger</li>
         <li><b>Mobile & BDD:</b> Appium, Cucumber, Robot Framework</li>
         <li><b>Performance:</b> JMeter, k6, Locust</li>
       </ul>
       <br>
       <b>☁️ Cloud & CI/CD</b>
       <ul>
-        <li><b>Infrastructure:</b> AWS, Kubernetes</li>
+        <li><b>Infrastructure:</b> AWS (EC2, S3), Kubernetes</li>
         <li><b>Containerization:</b> Docker, VMware</li>
         <li><b>CI/CD Pipelines:</b> GitHub Actions, Azure DevOps, Jenkins</li>
       </ul>
     </td>
     <!-- Column 2 -->
     <td valign="top" width="50%">
+      <b>🏗️ Architecture & Methodology</b>
+      <ul>
+        <li><b>Design Patterns:</b> POM, Screenplay, SOLID, Singleton</li>
+        <li><b>QA Strategy:</b> BDD, TDD, Risk-Based Testing, Shift-Left</li>
+      </ul>
+      <br>
       <b>🗄️ Databases</b>
       <ul>
-        <li><b>SQL:</b> MySQL, PostgreSQL, Microsoft SQL Server</li>
+        <li><b>SQL:</b> MySQL, PostgreSQL, MS SQL Server</li>
         <li><b>NoSQL:</b> MongoDB, DynamoDB, Redis</li>
       </ul>
       <br>
       <b>📊 Data & Observability</b>
       <ul>
         <li><b>Logging:</b> Elasticsearch, Kibana, Sumo Logic</li>
-        <li><b>Metrics & Visualization:</b> Grafana, Allure Report</li>
-        <li><b>Test Management:</b> TestRail, Xray</li>
+        <li><b>Reporting:</b> Allure Report, Grafana, TestRail, Xray</li>
       </ul>
       <br>
       <b>🤖 AI-Assisted Development</b>
       <ul>
         <li><b>IDE Extensions:</b> Cursor, GitHub Copilot</li>
-        <li><b>LLMs:</b> Claude 3.5, GPT-4o</li>
+        <li><b>LLMs:</b> Claude 3.5 Sonnet, GPT-4o</li>
       </ul>
     </td>
   </tr>
