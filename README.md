@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Im Ivo 
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 3, 2026, 09_39_52 PM" src="https://github.com/user-attachments/assets/b7acac6f-a95d-4cfe-96cc-dcc0a60634ff" />
+
 
 <!--
 **Ivos1991/Ivos1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
