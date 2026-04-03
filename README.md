@@ -21,33 +21,56 @@ I’m passionate about bridging the gap between development and quality, ensurin
 <img width="1491" height="158" alt="logos1" src="https://github.com/user-attachments/assets/b206eb66-21ae-4140-8fab-61e714589557" />
 <img width="1490" height="175" alt="logos2" src="https://github.com/user-attachments/assets/814f4e5a-dde3-4ad7-acbc-a77d3c4224e6" />
 
-- **💻 Programming & Scripting**
-    - **Development:** Python, TypeScript, C#
-    - **Shell & Automation:** Bash, PowerShell, Git
+## 🛠️ Core Skills
 
-- **🧪 Testing Frameworks**
-    - **Web & E2E:** Playwright, Selenium, Cypress
-    - **Unit & API:** Pytest, Jest, NUnit, Postman, Rest, Swagger
-    - **Mobile & BDD:** Appium, Cucumber, Robot Framework
-    - **Performance:** JMeter, k6, Locust
-
-- **☁️ Cloud & CI/CD**
-    - **Infrastructure:** AWS, Kubernetes
-    - **Containerization:** Docker, VMware
-    - **CI/CD Pipelines:** GitHub Actions, Azure DevOps, Jenkins
-
-- **🗄️ Databases**
-    - **SQL:** MySQL, PostgreSQL, Microsoft SQL Server
-    - **NoSQL:** MongoDB, DynamoDB, Redis
-
-- **📊 Data & Observability**
-    - **Logging:** Elasticsearch, Kibana, Sumo Logic
-    - **Metrics & Visualization:** Grafana, Allure Report
-    - **Test Management:** TestRail, Xray
-
-- **🤖 AI-Assisted Development**
-    - **IDE Extensions:** Cursor, GitHub Copilot
-    - **LLMs:** Claude 3.5, GPT-4o
+<table width="100%">
+  <tr>
+    <!-- Column 1 -->
+    <td valign="top" width="50%">
+      <b>💻 Programming & Scripting</b>
+      <ul>
+        <li><b>Development:</b> Python, TypeScript, C#</li>
+        <li><b>Shell & Automation:</b> Bash, PowerShell, Git</li>
+      </ul>
+      <br>
+      <b>🧪 Testing Frameworks</b>
+      <ul>
+        <li><b>Web & E2E:</b> Playwright, Selenium, Cypress</li>
+        <li><b>Unit & API:</b> Pytest, Jest, NUnit, Postman, Rest, Swagger</li>
+        <li><b>Mobile & BDD:</b> Appium, Cucumber, Robot Framework</li>
+        <li><b>Performance:</b> JMeter, k6, Locust</li>
+      </ul>
+      <br>
+      <b>☁️ Cloud & CI/CD</b>
+      <ul>
+        <li><b>Infrastructure:</b> AWS, Kubernetes</li>
+        <li><b>Containerization:</b> Docker, VMware</li>
+        <li><b>CI/CD Pipelines:</b> GitHub Actions, Azure DevOps, Jenkins</li>
+      </ul>
+    </td>
+    <!-- Column 2 -->
+    <td valign="top" width="50%">
+      <b>🗄️ Databases</b>
+      <ul>
+        <li><b>SQL:</b> MySQL, PostgreSQL, Microsoft SQL Server</li>
+        <li><b>NoSQL:</b> MongoDB, DynamoDB, Redis</li>
+      </ul>
+      <br>
+      <b>📊 Data & Observability</b>
+      <ul>
+        <li><b>Logging:</b> Elasticsearch, Kibana, Sumo Logic</li>
+        <li><b>Metrics & Visualization:</b> Grafana, Allure Report</li>
+        <li><b>Test Management:</b> TestRail, Xray</li>
+      </ul>
+      <br>
+      <b>🤖 AI-Assisted Development</b>
+      <ul>
+        <li><b>IDE Extensions:</b> Cursor, GitHub Copilot</li>
+        <li><b>LLMs:</b> Claude 3.5, GPT-4o</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
