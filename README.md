@@ -21,35 +21,33 @@ I’m passionate about bridging the gap between development and quality, ensurin
 <img width="1491" height="158" alt="logos1" src="https://github.com/user-attachments/assets/b206eb66-21ae-4140-8fab-61e714589557" />
 <img width="1490" height="175" alt="logos2" src="https://github.com/user-attachments/assets/814f4e5a-dde3-4ad7-acbc-a77d3c4224e6" />
 
-- **Programming & Scripting**
+- **💻 Programming & Scripting**
     - **Development:** Python, TypeScript, C#
     - **Shell & Automation:** Bash, PowerShell, Git
 
-- **Testing Frameworks**
+- **🧪 Testing Frameworks**
     - **Web & E2E:** Playwright, Selenium, Cypress
     - **Unit & API:** Pytest, Jest, NUnit, Postman, Rest, Swagger
     - **Mobile & BDD:** Appium, Cucumber, Robot Framework
     - **Performance:** JMeter, k6, Locust
 
-- **Cloud & DevOps**
+- **☁️ Cloud & CI/CD**
     - **Infrastructure:** AWS, Kubernetes
     - **Containerization:** Docker, VMware
-    - **CI/CD:** GitHub Actions, Azure DevOps, Jenkins
+    - **CI/CD Pipelines:** GitHub Actions, Azure DevOps, Jenkins
 
-- **Databases**
+- **🗄️ Databases**
     - **SQL:** MySQL, PostgreSQL, Microsoft SQL Server
     - **NoSQL:** MongoDB, DynamoDB, Redis
 
-- **Data & Observability**
+- **📊 Data & Observability**
     - **Logging:** Elasticsearch, Kibana, Sumo Logic
     - **Metrics & Visualization:** Grafana, Allure Report
     - **Test Management:** TestRail, Xray
 
-- **AI-Assisted Development**
+- **🤖 AI-Assisted Development**
     - **IDE Extensions:** Cursor, GitHub Copilot
     - **LLMs:** Claude 3.5, GPT-4o
-
-    
   
 
 
