@@ -13,9 +13,10 @@ I don't just write scripts; I build robust quality ecosystems. My focus is on:
 
 ### 📊 My GitHub Stats
 <p align="left">
-<img src="https://vercel.app" alt="Ivo Stats" />
-<img src="https://vercel.app" alt="Top Langs" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
 </p>
+
   
 ## Languages and Tools
 
