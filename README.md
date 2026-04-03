@@ -3,7 +3,7 @@
 <img width="1770" height="259" alt="image" src="https://github.com/user-attachments/assets/9ff4a14e-ccbf-4420-9274-bb1f8b1936eb" />
 
 
-🚀 **Senior QA Automation Engineer** with 7+ years of experience specializing in **Fintech, SaaS, and Cybersecurity**.
+🎯 **Senior QA Automation Engineer** with 7+ years of experience specializing in **Fintech, SaaS, and Cybersecurity**.
 
 I specialize in the **Architectural Design** of scalable automation frameworks. My focus isn't just on writing tests, but on building reliable, maintainable systems that reduce manual overhead and accelerate delivery.
 
@@ -12,7 +12,7 @@ I specialize in the **Architectural Design** of scalable automation frameworks. 
 <img width="1772" height="409" alt="image" src="https://github.com/user-attachments/assets/b6652bbb-43ac-417f-860c-b263045efa36" />
 
 
-I’m passionate about bridging the gap between development and quality, ensuring that automation is a core part of the engineering culture.
+🧠 I’m passionate about bridging the gap between development and quality, ensuring that automation is a core part of the engineering culture.
 
 - 🏗️ **Framework Architecture:** Expert in building custom, high-performance E2E and API frameworks from scratch (Python, TS, C#).
 - 🔐 **Industry Expertise:** Navigating the strict reliability and security requirements of Fintech and Cybersecurity environments.
