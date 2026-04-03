@@ -1,6 +1,18 @@
 ## Hi there 👋 Im Ivo 
 
-<img width="1536" height="1024" alt="ChatGPT Image Apr 3, 2026, 09_39_52 PM" src="https://github.com/user-attachments/assets/b7acac6f-a95d-4cfe-96cc-dcc0a60634ff" />
+<img width="1773" height="886" alt="gptfinal" src="https://github.com/user-attachments/assets/d99b17c5-b314-42d5-ab1d-d9624a1e5cdf" />
+
+## About Me
+
+Senior QA Automation Engineer with 7+ years of experience in SaaS + OnPrem, fintech, and cybersecurity.
+
+I focus on building scalable automation solutions, owning quality end-to-end, and improving reliability in complex systems. Passionate about working closely with teams to drive better engineering and higher-quality releases.
+
+## Languages and Tools
+
+
+
+
 
 
 <!--
