@@ -18,7 +18,7 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 ## 🛠️ Core Skills
 
-| Category | Tools & Technologies | Category | Tools & Technologies |
+| Category | Tools & Technologies | Domain | Architectural Expertise |
 | :--- | :--- | :--- | :--- |
 | **💻 Development** | Python, TypeScript, C#, Java | **🏗️ Architecture** | POM, Screenplay, SOLID, Patterns |
 | **🧪 Web & Mobile** | Playwright, Selenium, Appium, Robot | **⚡ API & Perf** | Pytest, Postman, JMeter, k6, Locust |
@@ -32,10 +32,10 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Network Security](https://github.com/Ivos1991/network-security-automation-framework)** | Automates vulnerability scanning and network compliance checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
-| **[API & Microservices](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and service integration. | Pytest, Requests, Docker | ✅ Stable |
-| **[Data Validation](https://github.com/Ivos1991/data-validation-automation-framework)** | Verification of large datasets between sources for data integrity. | Python, Pandas, SQL, Postgres | ✅ Stable |
-| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified framework covering UI, API, and Database layers. | Playwright, TypeScript, Jest | 🚀 Featured |
+| **[Network Security](https://github.com/Ivos1991/network-security-automation-framework)** | Automates vulnerability scanning and network-level security compliance checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
+| **[API & Microservices](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and integration between services. | Pytest, Requests, Docker | ✅ Stable |
+| **[Data Validation Engine](https://github.com/Ivos1991/data-validation-automation-framework)** | Automates verification of large datasets between sources to ensure integrity. | Python, Pandas, SQL, PostgreSQL | ✅ Stable |
+| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers in one suite. | Playwright, TypeScript, Jest | 🚀 Featured |
 
 ---
 
@@ -47,5 +47,5 @@ I’m passionate about bridging the gap between development and quality, ensurin
 ---
 
 <p align="center">
-  <i>Building reliable automation ecosystems for complex systems.</i>
+  <i>Building architectural automation ecosystems for high-stakes environments.</i>
 </p>
