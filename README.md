@@ -4,20 +4,18 @@
 
 ## About Me
 
-🚀 **Senior QA Automation Engineer** with 7+ years of experience across **Fintech**, **SaaS**, and **Cybersecurity**.
+🚀 **Senior QA Automation Engineer** with 7+ years of experience specializing in **Fintech, SaaS, and Cybersecurity**.
 
-I don't just write scripts; I build robust quality ecosystems. My focus is on:
-- 🛡️ **Security-First Automation:** Integrating DAST and security checks into CI/CD.
-- 💰 **Fintech Reliability:** Ensuring data consistency and transaction integrity at scale.
-- 🏗️ **Infrastructure as Code:** Provisioning isolated test environments using Terraform and K8s.
+I specialize in the **Architectural Design** of scalable automation frameworks. My focus isn't just on writing tests, but on building reliable, maintainable systems that reduce manual overhead and accelerate delivery.
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
-</p>
+**What I bring to the table:**
+- 🏗️ **Framework Architecture:** Expert in building custom, high-performance E2E and API frameworks from scratch (Python, TS, C#).
+- 🔐 **Industry Expertise:** Navigating the strict reliability and security requirements of Fintech and Cybersecurity environments.
+- ⚙️ **CI/CD Integration:** Seamlessly embedding quality gates into Azure DevOps and GitHub Actions to ensure "Green Builds" only.
+- 🤖 **AI-Driven Productivity:** Leveraging modern AI tools (Claude, Cursor) to optimize code quality and speed up framework migration.
 
-  
+I’m passionate about bridging the gap between development and quality, ensuring that automation is a core part of the engineering culture.
+
 ## Languages and Tools
 
 <img width="1491" height="158" alt="logos1" src="https://github.com/user-attachments/assets/b206eb66-21ae-4140-8fab-61e714589557" />
