@@ -27,12 +27,12 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 - **Testing Frameworks**
     - **Web & E2E:** Playwright, Selenium, Cypress
-    - **Unit & API:** Pytest, Jest, NUnit, Postman, RestAssured
+    - **Unit & API:** Pytest, Jest, NUnit, Postman, Rest, Swagger
     - **Mobile & BDD:** Appium, Cucumber, Robot Framework
     - **Performance:** JMeter, k6, Locust
 
 - **Cloud & DevOps**
-    - **Infrastructure:** AWS, Kubernetes, **Terraform (IaC)**
+    - **Infrastructure:** AWS, Kubernetes
     - **Containerization:** Docker, VMware
     - **CI/CD:** GitHub Actions, Azure DevOps, Jenkins
 
