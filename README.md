@@ -16,14 +16,15 @@ I specialize in the **Architectural Design** of scalable automation frameworks. 
 
 I’m passionate about bridging the gap between development and quality, ensuring that automation is a core part of the engineering culture.
 
+markdown
 ## 🛠️ Core Skills
 
 | 🏗️ Architecture & Automation | ☁️ Cloud, Data & AI |
 | :--- | :--- |
-| **💻 Programming & Scripting** <br> • **Development:** Python, TypeScript, C# <br> • **Shell & Automation:** Bash, PowerShell, Git | **🏗️ Architecture & Design** <br> • **Design Patterns:** POM, Screenplay, SOLID <br> • **QA Strategy:** TDD, Shift-Left, Risk-Based |
-| **🧪 Web & Mobile Automation** <br> • **Web/E2E:** Playwright, Selenium, Cypress <br> • **Mobile/BDD:** Appium, Cucumber, Robot | **⚡ API & Performance Engineering** <br> • **Unit/API:** Pytest, Jest, NUnit, Postman <br> • **Performance:** JMeter, k6, Locust, Swagger |
-| **☁️ Cloud & Infrastructure** <br> • **Environment:** AWS (EC2, S3), Kubernetes <br> • **Containerization:** Docker, VMware <br> • **CI/CD:** GitHub Actions, Azure DevOps, Jenkins | **🗄️ Databases & Storage** <br> • **SQL:** MySQL, PostgreSQL, MS SQL Server <br> • **NoSQL:** MongoDB, DynamoDB, Redis |
-| **📊 Observability & Reporting** <br> • **Logging:** Elasticsearch, Kibana, Sumo Logic <br> • **Reporting:** Allure, Grafana, TestRail, Xray | **🤖 AI-Assisted Development** <br> • **IDE Extensions:** Cursor, GitHub Copilot <br> • **LLMs:** Claude 3.5 Sonnet, GPT-4o |
+| **💻 Programming & Scripting** <br> • **Development:** Python, TypeScript, C# <br> • **Shell & Automation:** Bash, PowerShell, Git, Jira | **🏗️ Architecture & Design** <br> • **Design Patterns:** POM, Screenplay, SOLID, Singleton <br> • **QA Strategy:** TDD, Shift-Left, Risk-Based Testing |
+| **🧪 Web & Mobile Automation** <br> • **Web/E2E:** Playwright, Selenium, Cypress <br> • **Mobile/BDD:** Appium, Cucumber, Robot Framework | **⚡ API & Performance Engineering** <br> • **Unit/API:** Pytest, Jest, NUnit, Postman, Swagger <br> • **Performance:** JMeter, k6, Locust, LoadRunner |
+| **☁️ Cloud & Infrastructure** <br> • **Environment:** AWS (EC2, S3), Kubernetes, Terraform <br> • **Containerization:** Docker, VMware, CI/CD Pipelines | **🗄️ Databases & Storage** <br> • **SQL:** MySQL, PostgreSQL, Microsoft SQL Server <br> • **NoSQL:** MongoDB, DynamoDB, Redis, Caching |
+| **📊 Observability & Reporting** <br> • **Logging:** Elasticsearch, Kibana, Sumo Logic, Splunk <br> • **Reporting:** Allure, Grafana, TestRail, Xray | **🤖 AI-Assisted Development** <br> • **IDE Extensions:** Cursor, GitHub Copilot <br> • **LLMs:** Claude 3.5 Sonnet, GPT-4o, Gemini |
 
 ---
 
@@ -31,10 +32,10 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Network Security Automation](https://github.com/Ivos1991/network-security-automation-framework)** | Automates vulnerability scanning and network-level security checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
-| **[API & Microservices Testing](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and service integration. | Pytest, Requests, Docker | ✅ Stable |
-| **[Data Validation Engine](https://github.com/Ivos1991/data-validation-automation-framework)** | Automates verification of large datasets to ensure data integrity. | Python, Pandas, SQL, PostgreSQL | ✅ Stable |
-| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers. | Playwright, TypeScript, Jest | 🚀 Featured |
+| **[Network Security](https://github.com/Ivos1991/network-security-automation-framework)** | Automates vulnerability scanning and network-level security compliance checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
+| **[API & Microservices](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and integration between services. | Pytest, Requests, Docker | ✅ Stable |
+| **[Data Validation Engine](https://github.com/Ivos1991/data-validation-automation-framework)** | Automates verification of large datasets between sources to ensure integrity. | Python, Pandas, SQL, PostgreSQL | ✅ Stable |
+| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers in one suite. | Playwright, TypeScript, Jest | 🚀 Featured |
 
 ---
 
@@ -42,13 +43,6 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-<p align="center">
-  <i>Building reliable automation ecosystems for complex systems.</i>
-</p>
-
 
 
 
