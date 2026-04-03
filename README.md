@@ -63,8 +63,7 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:your.email@example.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ivo-segura-6256b8166/)
 
 
 
