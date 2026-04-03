@@ -6,17 +6,16 @@
 
 I specialize in the **Architectural Design** of scalable automation frameworks. My focus isn't just on writing tests, but on building reliable, maintainable systems that reduce manual overhead and accelerate delivery.
 
-
 ## 🙋‍♂️ About Me
 
 <img width="1772" height="409" alt="image" src="https://github.com/user-attachments/assets/b6652bbb-43ac-417f-860c-b263045efa36" />
+
+I’m passionate about bridging the gap between development and quality, ensuring that automation is a core part of the engineering culture.
 
 - 🏗️ **Framework Architecture:** Expert in building custom, high-performance E2E and API frameworks from scratch (Python, TS, C#).
 - 🔐 **Industry Expertise:** Navigating the strict reliability and security requirements of Fintech and Cybersecurity environments.
 - ⚙️ **CI/CD Integration:** Seamlessly embedding quality gates into Azure DevOps and GitHub Actions to ensure "Green Builds" only.
 - 🤖 **AI-Driven Productivity:** Leveraging modern AI tools (Claude, Cursor) to optimize code quality and speed up framework migration.
-
-I’m passionate about bridging the gap between development and quality, ensuring that automation is a core part of the engineering culture.
 
 ## 🛠️ Core Skills
 
