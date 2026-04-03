@@ -3,7 +3,6 @@
 🚀 **Senior QA Automation Engineer** with 7+ years of experience specializing in **Fintech, SaaS, and Cybersecurity**.
 
 <img width="1773" height="886" alt="gptfinal" src="https://github.com/user-attachments/assets/d99b17c5-b314-42d5-ab1d-d9624a1e5cdf" />
-
 ## 🙋‍♂️ About Me
 
 I specialize in the **Architectural Design** of scalable automation frameworks. My focus isn't just on writing tests, but on building reliable, maintainable systems that reduce manual overhead and accelerate delivery.
