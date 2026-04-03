@@ -16,10 +16,7 @@ I specialize in the **Architectural Design** of scalable automation frameworks. 
 
 I’m passionate about bridging the gap between development and quality, ensuring that automation is a core part of the engineering culture.
 
-## 🛠️ Core Skills & Tools
-
-<img width="1491" height="158" alt="logos1" src="https://github.com/user-attachments/assets/b206eb66-21ae-4140-8fab-61e714589557" />
-<img width="1490" height="175" alt="logos2" src="https://github.com/user-attachments/assets/814f4e5a-dde3-4ad7-acbc-a77d3c4224e6" />
+## 🛠️ Core Skills
 
 <table width="100%">
   <tr>
@@ -31,39 +28,17 @@ I’m passionate about bridging the gap between development and quality, ensurin
         <li><b>Shell & Automation:</b> Bash, PowerShell, Git</li>
       </ul>
       <br>
-      <b>🧪 Testing Frameworks</b>
+      <b>🧪 Web & Mobile Automation</b>
       <ul>
-        <li><b>Web & E2E:</b> Playwright, Selenium, Cypress</li>
-        <li><b>Unit & API:</b> Pytest, Jest, NUnit, Postman, Swagger</li>
-        <li><b>Mobile & BDD:</b> Appium, Cucumber, Robot Framework</li>
-        <li><b>Performance:</b> JMeter, k6, Locust</li>
+        <li><b>Web/E2E:</b> Playwright, Selenium, Cypress</li>
+        <li><b>Mobile/BDD:</b> Appium, Cucumber, Robot</li>
       </ul>
       <br>
-      <b>☁️ Cloud & CI/CD</b>
+      <b>☁️ Cloud & Infrastructure</b>
       <ul>
-        <li><b>Infrastructure:</b> AWS (EC2, S3), Kubernetes</li>
+        <li><b>Environment:</b> AWS (EC2, S3), Kubernetes</li>
         <li><b>Containerization:</b> Docker, VMware</li>
-        <li><b>CI/CD Pipelines:</b> GitHub Actions, Azure DevOps, Jenkins</li>
-      </ul>
-    </td>
-    <!-- Column 2 -->
-    <td valign="top" width="50%">
-      <b>🏗️ Architecture & Methodology</b>
-      <ul>
-        <li><b>Design Patterns:</b> POM, Screenplay, SOLID, Singleton</li>
-        <li><b>QA Strategy:</b> BDD, TDD, Risk-Based Testing, Shift-Left</li>
-      </ul>
-      <br>
-      <b>🗄️ Databases</b>
-      <ul>
-        <li><b>SQL:</b> MySQL, PostgreSQL, MS SQL Server</li>
-        <li><b>NoSQL:</b> MongoDB, DynamoDB, Redis</li>
-      </ul>
-      <br>
-      <b>📊 Data & Observability</b>
-      <ul>
-        <li><b>Logging:</b> Elasticsearch, Kibana, Sumo Logic</li>
-        <li><b>Reporting:</b> Allure Report, Grafana, TestRail, Xray</li>
+        <li><b>CI/CD:</b> GitHub Actions, Azure DevOps, Jenkins</li>
       </ul>
       <br>
       <b>🤖 AI-Assisted Development</b>
@@ -72,24 +47,58 @@ I’m passionate about bridging the gap between development and quality, ensurin
         <li><b>LLMs:</b> Claude 3.5 Sonnet, GPT-4o</li>
       </ul>
     </td>
+    <!-- Column 2 -->
+    <td valign="top" width="50%">
+      <b>🏗️ Architecture & Design</b>
+      <ul>
+        <li><b>Design Patterns:</b> POM, Screenplay, SOLID</li>
+        <li><b>QA Strategy:</b> TDD, Shift-Left, Risk-Based</li>
+      </ul>
+      <br>
+      <b>⚡ API & Performance Engineering</b>
+      <ul>
+        <li><b>Unit/API:</b> Pytest, Jest, NUnit, Postman</li>
+        <li><b>Performance:</b> JMeter, k6, Locust, Swagger</li>
+      </ul>
+      <br>
+      <b>🗄️ Databases & Storage</b>
+      <ul>
+        <li><b>SQL:</b> MySQL, PostgreSQL, MS SQL Server</li>
+        <li><b>NoSQL:</b> MongoDB, DynamoDB, Redis</li>
+      </ul>
+      <br>
+      <b>📊 Observability & Reporting</b>
+      <ul>
+        <li><b>Logging:</b> Elasticsearch, Kibana, Sumo Logic</li>
+        <li><b>Reporting:</b> Allure, Grafana, TestRail, Xray</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
-## 🚀 Featured Projects
+---
 
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Network Security Automation](https://github.com)** | Automates vulnerability scanning and network-level security compliance checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
-| **[API & Microservices Testing](https://github.com)** | Architecture for testing contract integrity and integration between distributed services. | Pytest, Requests, Docker | ✅ Stable |
-| **[Data Validation Engine](https://github.com)** | Automates verification of large datasets between sources to ensure data integrity. | Python, Pytest, Pandas, SQL | ✅ Stable |
-| **[Full Stack Automation](https://github.com)** | Unified E2E framework covering UI, API, and Database layers in a single suite. | Playwright, Python, Pythest, REST, | 🚀 Featured |
+| **[Network Security Automation](https://github.com/Ivos1991/network-security-automation-framework)** | Automates vulnerability scanning and network-level security checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
+| **[API & Microservices Testing](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and service integration. | Pytest, Requests, Docker | ✅ Stable |
+| **[Data Validation Engine](https://github.com/Ivos1991/data-validation-automation-framework)** | Automates verification of large datasets to ensure data integrity. | Python, Pandas, SQL, PostgreSQL | ✅ Stable |
+| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers. | Playwright, TypeScript, Jest | 🚀 Featured |
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ivo-segura-6256b8166/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<p align="center">
+  <i>Building reliable automation ecosystems for complex systems.</i>
+</p>
 
 
 
