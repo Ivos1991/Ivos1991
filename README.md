@@ -1,7 +1,6 @@
 ## 👋 Hi there! Im Ivo 
 
 <img width="1770" height="259" alt="image" src="https://github.com/user-attachments/assets/9ff4a14e-ccbf-4420-9274-bb1f8b1936eb" />
-
 ## 🙋‍♂️ About Me
 
 <img width="1772" height="409" alt="image" src="https://github.com/user-attachments/assets/b6652bbb-43ac-417f-860c-b263045efa36" />
