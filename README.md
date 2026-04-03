@@ -18,12 +18,12 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 ## 🛠️ Core Skills
 
-| 🏗️ Architecture & Automation | ☁️ Cloud, Data & AI |
+| 🏗️ Framework Architecture & Design | ☁️ Cloud, Data & Observability |
 | :--- | :--- |
-| **💻 Programming & Scripting** <br> • **Development:** Python, TypeScript, C# <br> • **Shell & Automation:** Bash, PowerShell, Git | **🏗️ Architecture & Design** <br> • **Design Patterns:** POM, Screenplay, SOLID <br> • **QA Strategy:** TDD, Shift-Left, Risk-Based |
-| **🧪 Web & Mobile Automation** <br> • **Web/E2E:** Playwright, Selenium, Cypress <br> • **Mobile/BDD:** Appium, Cucumber, Robot | **⚡ API & Performance Engineering** <br> • **Unit/API:** Pytest, Jest, NUnit, Postman <br> • **Performance:** JMeter, k6, Locust, Swagger |
-| **☁️ Cloud & Infrastructure** <br> • **Environment:** AWS (EC2, S3), Kubernetes <br> • **Containerization:** Docker, VMware <br> • **CI/CD:** GitHub Actions, Azure DevOps, Jenkins | **🗄️ Databases & Storage** <br> • **SQL:** MySQL, PostgreSQL, MS SQL Server <br> • **NoSQL:** MongoDB, DynamoDB, Redis |
-| **📊 Observability & Reporting** <br> • **Logging:** Elasticsearch, Kibana, Sumo Logic <br> • **Reporting:** Allure, Grafana, TestRail, Xray | **🤖 AI-Assisted Development** <br> • **IDE Extensions:** Cursor, GitHub Copilot <br> • **LLMs:** Claude 3.5 Sonnet, GPT-4o |
+| **💻 Programming & Development** <br> Architecting scalable automation solutions using **Python**, **TypeScript**, and **C#** for enterprise backend and web environments. | **🏗️ Architecture & QA Strategy** <br> Implementing **SOLID** principles, **Page Object Model (POM)**, and **Screenplay** patterns to ensure maintainable test code. |
+| **🧪 Web, Mobile & E2E Testing** <br> Building robust, high-performance E2E suites with **Playwright**, **Selenium**, and **Cypress** for SaaS and Fintech platforms. | **⚡ API & Performance Engineering** <br> Designing integration and contract tests using **Pytest** and **Postman**, with load testing via **JMeter** and **k6**. |
+| **☁️ Cloud & CI/CD Infrastructure** <br> Automating "Green Build" deployments using **GitHub Actions**, **Azure DevOps**, and **Jenkins** within **AWS** and **Kubernetes** clusters. | **🗄️ Databases & Storage Systems** <br> Managing data integrity and automated verification across **PostgreSQL**, **MySQL**, and **MS SQL Server** relational systems. |
+| **🤖 AI-Assisted Engineering** <br> Optimizing the development lifecycle with **Cursor**, **GitHub Copilot**, and **Claude 3.5** for faster framework migrations and refactoring. | **📊 Observability & Reporting** <br> Centralizing quality metrics and logs using **Elasticsearch**, **Kibana**, and **Grafana** for real-time system visibility. |
 
 ---
 
@@ -31,10 +31,10 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Network Security](https://github.com/Ivos1991/network-security-automation-framework)** | Automates vulnerability scanning and network-level security checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
-| **[API & Microservices](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and service integration. | Pytest, Requests, Docker | ✅ Stable |
-| **[Data Validation Engine](https://github.com/Ivos1991/data-validation-automation-framework)** | Automates verification of large datasets between sources. | Python, Pandas, SQL, PostgreSQL | ✅ Stable |
-| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers. | Playwright, TypeScript, Jest | 🚀 Featured |
+| **[Network Security](https://github.com/Ivos1991/network-security-automation-framework)** | Automates vulnerability scanning and network-level security compliance checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
+| **[API & Microservices](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and integration between services. | Pytest, Requests, Docker | ✅ Stable |
+| **[Data Validation Engine](https://github.com/Ivos1991/data-validation-automation-framework)** | Automates verification of large datasets between sources to ensure integrity. | Python, Pandas, SQL, PostgreSQL | ✅ Stable |
+| **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers in one suite. | Playwright, TypeScript, Jest | 🚀 Featured |
 
 ---
 
@@ -46,6 +46,5 @@ I’m passionate about bridging the gap between development and quality, ensurin
 ---
 
 <p align="center">
-  <i>Building reliable automation ecosystems for complex systems.</i>
+  <i>Building architectural automation ecosystems for high-stakes environments.</i>
 </p>
-
