@@ -1,4 +1,4 @@
-## Hi there 👋 Im Ivo 
+## 👋 Hi there! Im Ivo 
 
 <img width="1773" height="886" alt="gptfinal" src="https://github.com/user-attachments/assets/d99b17c5-b314-42d5-ab1d-d9624a1e5cdf" />
 
