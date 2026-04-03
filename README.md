@@ -10,7 +10,10 @@ I focus on building scalable automation solutions, owning quality end-to-end, an
 
 ## Languages and Tools
 
-![logos](https://github.com/user-attachments/assets/4f7f3998-18b8-4507-915f-bf35ed997831)
+<img width="1491" height="158" alt="logos1" src="https://github.com/user-attachments/assets/b206eb66-21ae-4140-8fab-61e714589557" />
+<img width="1490" height="175" alt="logos2" src="https://github.com/user-attachments/assets/814f4e5a-dde3-4ad7-acbc-a77d3c4224e6" />
+
+
 
 
 
