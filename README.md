@@ -1,13 +1,15 @@
 ## 👋 Hi there! Im Ivo 
 
 <img width="1770" height="259" alt="image" src="https://github.com/user-attachments/assets/9ff4a14e-ccbf-4420-9274-bb1f8b1936eb" />
-## 🙋‍♂️ About Me
-
-<img width="1772" height="409" alt="image" src="https://github.com/user-attachments/assets/b6652bbb-43ac-417f-860c-b263045efa36" />
 
 🚀 **Senior QA Automation Engineer** with 7+ years of experience specializing in **Fintech, SaaS, and Cybersecurity**.
 
 I specialize in the **Architectural Design** of scalable automation frameworks. My focus isn't just on writing tests, but on building reliable, maintainable systems that reduce manual overhead and accelerate delivery.
+
+
+## 🙋‍♂️ About Me
+
+<img width="1772" height="409" alt="image" src="https://github.com/user-attachments/assets/b6652bbb-43ac-417f-860c-b263045efa36" />
 
 **What I bring to the table:**
 - 🏗️ **Framework Architecture:** Expert in building custom, high-performance E2E and API frameworks from scratch (Python, TS, C#).
