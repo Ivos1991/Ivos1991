@@ -18,13 +18,12 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 ## 🛠️ Core Skills
 
-| Category | Tools & Technologies | Category | Tools & Technologies |
-| :--- | :--- | :--- | :--- |
-| **💻 Development** | Python, TypeScript, C# | **🏗️ Architecture** | POM, Screenplay, SOLID, Patterns |
-| **🧪 Web & Mobile** | Playwright, Selenium, Appium | **⚡ API & Perf** | Pytest, Postman, JMeter, k6 |
-| **☁️ Cloud & CI/CD** | AWS, K8s, Docker, Jenkins | **🗄️ Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **📊 Observability** | Kibana, Grafana, Allure, Xray | **🤖 AI Dev** | Cursor, Copilot, Claude, GPT-4o |
-| **🐚 Shell & Tooling** | Bash, PowerShell, Git, Jira | **🎯 Strategy** | TDD, Shift-Left, BDD, Risk-Based |
+| 🏗️ Architecture & Automation | ☁️ Cloud, Data & AI |
+| :--- | :--- |
+| **💻 Programming & Scripting** <br> • **Development:** Python, TypeScript, C# <br> • **Shell & Automation:** Bash, PowerShell, Git | **🏗️ Architecture & Design** <br> • **Design Patterns:** POM, Screenplay, SOLID <br> • **QA Strategy:** TDD, Shift-Left, Risk-Based |
+| **🧪 Web & Mobile Automation** <br> • **Web/E2E:** Playwright, Selenium, Cypress <br> • **Mobile/BDD:** Appium, Cucumber, Robot | **⚡ API & Performance Engineering** <br> • **Unit/API:** Pytest, Jest, NUnit, Postman <br> • **Performance:** JMeter, k6, Locust, Swagger |
+| **☁️ Cloud & Infrastructure** <br> • **Environment:** AWS (EC2, S3), Kubernetes <br> • **Containerization:** Docker, VMware <br> • **CI/CD:** GitHub Actions, Azure DevOps, Jenkins | **🗄️ Databases & Storage** <br> • **SQL:** MySQL, PostgreSQL, MS SQL Server <br> • **NoSQL:** MongoDB, DynamoDB, Redis |
+| **📊 Observability & Reporting** <br> • **Logging:** Elasticsearch, Kibana, Sumo Logic <br> • **Reporting:** Allure, Grafana, TestRail, Xray | **🤖 AI-Assisted Development** <br> • **IDE Extensions:** Cursor, GitHub Copilot <br> • **LLMs:** Claude 3.5 Sonnet, GPT-4o |
 
 ---
 
