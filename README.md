@@ -18,63 +18,12 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 ## 🛠️ Core Skills
 
-<table width="100%">
-  <tr>
-    <!-- Column 1 -->
-    <td valign="top" width="50%">
-      <b>💻 Programming & Scripting</b>
-      <ul>
-        <li><b>Development:</b> Python, TypeScript, C#</li>
-        <li><b>Shell & Automation:</b> Bash, PowerShell, Git</li>
-      </ul>
-      <br>
-      <b>🧪 Web & Mobile Automation</b>
-      <ul>
-        <li><b>Web/E2E:</b> Playwright, Selenium, Cypress</li>
-        <li><b>Mobile/BDD:</b> Appium, Cucumber, Robot</li>
-      </ul>
-      <br>
-      <b>☁️ Cloud & Infrastructure</b>
-      <ul>
-        <li><b>Environment:</b> AWS (EC2, S3), Kubernetes</li>
-        <li><b>Containerization:</b> Docker, VMware</li>
-        <li><b>CI/CD:</b> GitHub Actions, Azure DevOps, Jenkins</li>
-      </ul>
-      <br>
-      <b>🤖 AI-Assisted Development</b>
-      <ul>
-        <li><b>IDE Extensions:</b> Cursor, GitHub Copilot</li>
-        <li><b>LLMs:</b> Claude 3.5 Sonnet, GPT-4o</li>
-      </ul>
-    </td>
-    <!-- Column 2 -->
-    <td valign="top" width="50%">
-      <b>🏗️ Architecture & Design</b>
-      <ul>
-        <li><b>Design Patterns:</b> POM, Screenplay, SOLID</li>
-        <li><b>QA Strategy:</b> TDD, Shift-Left, Risk-Based</li>
-      </ul>
-      <br>
-      <b>⚡ API & Performance Engineering</b>
-      <ul>
-        <li><b>Unit/API:</b> Pytest, Jest, NUnit, Postman</li>
-        <li><b>Performance:</b> JMeter, k6, Locust, Swagger</li>
-      </ul>
-      <br>
-      <b>🗄️ Databases & Storage</b>
-      <ul>
-        <li><b>SQL:</b> MySQL, PostgreSQL, MS SQL Server</li>
-        <li><b>NoSQL:</b> MongoDB, DynamoDB, Redis</li>
-      </ul>
-      <br>
-      <b>📊 Observability & Reporting</b>
-      <ul>
-        <li><b>Logging:</b> Elasticsearch, Kibana, Sumo Logic</li>
-        <li><b>Reporting:</b> Allure, Grafana, TestRail, Xray</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| **Category** | **Category** |
+| :--- | :--- |
+| **💻 Programming & Scripting** <br> • **Development:** Python, TypeScript, C# <br> • **Shell & Automation:** Bash, PowerShell, Git | **🏗️ Architecture & Design** <br> • **Design Patterns:** POM, Screenplay, SOLID <br> • **QA Strategy:** TDD, Shift-Left, Risk-Based |
+| **🧪 Web & Mobile Automation** <br> • **Web/E2E:** Playwright, Selenium, Cypress <br> • **Mobile/BDD:** Appium, Cucumber, Robot | **⚡ API & Performance Engineering** <br> • **Unit/API:** Pytest, Jest, NUnit, Postman <br> • **Performance:** JMeter, k6, Locust, Swagger |
+| **☁️ Cloud & Infrastructure** <br> • **Environment:** AWS (EC2, S3), Kubernetes <br> • **Containerization:** Docker, VMware <br> • **CI/CD:** GitHub Actions, Azure DevOps, Jenkins | **🗄️ Databases & Storage** <br> • **SQL:** MySQL, PostgreSQL, MS SQL Server <br> • **NoSQL:** MongoDB, DynamoDB, Redis |
+| **🤖 AI-Assisted Development** <br> • **IDE Extensions:** Cursor, GitHub Copilot <br> • **LLMs:** Claude 3.5 Sonnet, GPT-4o | **📊 Observability & Reporting** <br> • **Logging:** Elasticsearch, Kibana, Sumo Logic <br> • **Reporting:** Allure, Grafana, TestRail, Xray |
 
 ---
 
