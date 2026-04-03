@@ -10,6 +10,7 @@ I focus on building scalable automation solutions, owning quality end-to-end, an
 
 ## Languages and Tools
 
+<img width="1536" height="1024" alt="ChatGPT Image Apr 3, 2026, 10_04_06 PM" src="https://github.com/user-attachments/assets/66664310-a874-4446-9608-9f7142eccfe4" />
 
 
 
