@@ -2,7 +2,7 @@
 
 <img width="1773" height="886" alt="gptfinal" src="https://github.com/user-attachments/assets/d99b17c5-b314-42d5-ab1d-d9624a1e5cdf" />
 
-## About Me
+## 🙋‍♂️ About Me
 
 🚀 **Senior QA Automation Engineer** with 7+ years of experience specializing in **Fintech, SaaS, and Cybersecurity**.
 
