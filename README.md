@@ -48,9 +48,23 @@ I’m passionate about bridging the gap between development and quality, ensurin
 - **🤖 AI-Assisted Development**
     - **IDE Extensions:** Cursor, GitHub Copilot
     - **LLMs:** Claude 3.5, GPT-4o
-  
+
+## 🚀 Featured Projects
 
 
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Network Security Automation](https://github.com)** | Automates vulnerability scanning and network-level security compliance checks. | Python, Nmap, Scapy, Bash | 🛡️ Active |
+| **[API & Microservices Testing](https://github.com)** | Architecture for testing contract integrity and integration between distributed services. | Pytest, Requests, Docker | ✅ Stable |
+| **[Data Validation Engine](https://github.com)** | Automates verification of large datasets between sources to ensure data integrity. | Python, Pytest, Pandas, SQL | ✅ Stable |
+| **[Full Stack Automation](https://github.com)** | Unified E2E framework covering UI, API, and Database layers in a single suite. | Playwright, Python, Pythest, REST, | 🚀 Featured |
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:your.email@example.com)
 
 
 
