@@ -25,11 +25,10 @@ I’m passionate about bridging the gap between development and quality, ensurin
 
 | 🏗️ Framework Architecture & Design | ☁️ Cloud, Data & Observability |
 | :--- | :--- |
-| **💻 Programming & Development** <br> Architecting scalable automation solutions using **Python**, **TypeScript**, and **C#** for enterprise backend and web environments. | **🏗️ Architecture & QA Strategy** <br> Implementing **SOLID** principles, **Page Object Model (POM)**, and **Screenplay** patterns to ensure maintainable test code. |
+| **💻 Programming & Development** <br> Architecting scalable automation solutions using **Python**, **TypeScript**, and **C#** for enterprise backend and web environments. | **☁️ Cloud & CI/CD Infrastructure** <br> Automating "Green Build" deployments using **GitHub Actions**, **Azure DevOps**, and **Jenkins** within **AWS** and **Kubernetes** clusters. |
+| **🏗️ Architecture & QA Strategy** <br> Implementing **SOLID** principles, **Page Object Model (POM)**, and **Screenplay** patterns to ensure maintainable test code. | **🗄️ Databases & Storage Systems** <br> Managing data integrity and automated verification across **PostgreSQL**, **MySQL**, and **MS SQL Server** relational systems. |
 | **🧪 Web, Mobile & E2E Testing** <br> Building robust, high-performance E2E suites with **Playwright**, **Selenium**, and **Appium**. | **⚡ API & Performance Engineering** <br> Designing integration and contract tests using **Pytest** and **Postman**, with load testing via **JMeter** and **k6**. |
-| **☁️ Cloud & CI/CD Infrastructure** <br> Automating "Green Build" deployments using **GitHub Actions**, **Azure DevOps**, and **Jenkins** within **AWS** and **Kubernetes** clusters. | **🗄️ Databases & Storage Systems** <br> Managing data integrity and automated verification across **PostgreSQL**, **MySQL**, and **MS SQL Server** relational systems. |
 | **🤖 AI-Assisted Engineering** <br> Optimizing the development lifecycle with **Cursor**, **GitHub Copilot**, and **Claude** for faster framework migrations and refactoring. | **📊 Observability & Reporting** <br> Centralizing quality metrics and logs using **Elasticsearch**, **Kibana**, and **Sumo Logic** for real-time system visibility. |
-
 ---
 
 ## 🚀 Featured Projects
