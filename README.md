@@ -4,10 +4,19 @@
 
 ## About Me
 
-Senior QA Automation Engineer with 7+ years of experience in SaaS + OnPrem, fintech, and cybersecurity.
+🚀 **Senior QA Automation Engineer** with 7+ years of experience across **Fintech**, **SaaS**, and **Cybersecurity**.
 
-I focus on building scalable automation solutions, owning quality end-to-end, and improving reliability in complex systems. Passionate about working closely with teams to drive better engineering and higher-quality releases.
+I don't just write scripts; I build robust quality ecosystems. My focus is on:
+- 🛡️ **Security-First Automation:** Integrating DAST and security checks into CI/CD.
+- 💰 **Fintech Reliability:** Ensuring data consistency and transaction integrity at scale.
+- 🏗️ **Infrastructure as Code:** Provisioning isolated test environments using Terraform and K8s.
 
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://vercel.app" alt="Ivo Stats" />
+<img src="https://vercel.app" alt="Top Langs" />
+</p>
+  
 ## Languages and Tools
 
 <img width="1491" height="158" alt="logos1" src="https://github.com/user-attachments/assets/b206eb66-21ae-4140-8fab-61e714589557" />
