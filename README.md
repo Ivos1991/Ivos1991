@@ -40,8 +40,7 @@ I specialize in the **Architectural Design** of scalable automation frameworks. 
 | **[API & Microservices](https://github.com/Ivos1991/api_microservices_automation_framework)** | Architecture for testing contract integrity and integration between services. | Pytest, Requests, Docker | ✅ Stable |
 | **[Data Validation Engine](https://github.com/Ivos1991/data-validation-automation-framework)** | Automates verification of large datasets between sources to ensure integrity. | Python, Pandas, SQL, PostgreSQL | ✅ Stable |
 | **[Full Stack Automation](https://github.com/Ivos1991/full_stack_automation)** | Unified E2E framework covering UI, API, and Database layers in one suite. | Playwright, Python, Pytest | ⭐ Featured |
-| ***[Mobile App Automation](https://github.com/Ivos1991/appium-mobile-automation-framework)** | Lean Android mobile automation framework with layered screens, flows, and BDD steps, built around real Appium smoke execution and host
-  ed Allure reporting. | TypeScript, WebdriverIO, Appium, Cucumber, Allure, GitHub Actions | 🚧 In Progress |
+| **[Mobile App Automation](https://github.com/Ivos1991/appium-mobile-automation-framework)** | Lean Android mobile automation framework with layered screens, flows, and BDD steps, built around real Appium smoke execution and hosted Allure reporting. | TypeScript, WebdriverIO, Appium, Cucumber, Allure, GitHub Actions | 🚧 In Progress |
 ---
 
 ## 📫 Let's Connect
